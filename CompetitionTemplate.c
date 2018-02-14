@@ -6,6 +6,8 @@
  * TUG OF WAR
  * SPUR-FLY FRESHMAN CHALLENGE 
  *
+ * GO TO :
+ *  Robot -> VEX Cortex Communication Mode -> USB Only
  */
 
 #define START_BUTTON dgtl12
